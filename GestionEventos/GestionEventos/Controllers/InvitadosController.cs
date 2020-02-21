@@ -26,7 +26,9 @@ namespace GestionEventos.Controllers
         {
             return await _context.invitados.ToListAsync();
         }
-         //hola 
+        public string gola = "hola";
+
+         //hola como esta
         // GET: api/Invitados/5
         [HttpGet("{id}")]
         public async Task<ActionResult<Invitados>> GetInvitados(int id)

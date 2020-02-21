@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{AF9B2CD8-E46F-449A-B122-689CF638EC02}|Default">
+  <MonoDevelop.Ide.ItemProperties.GestionEventos PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GestionEventos/Controllers/InvitadosController.cs">
+    <Files>
+      <File FileName="GestionEventos/Controllers/InvitadosController.cs" Line="29" Column="26" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GestionEventos" expanded="True">
+            <Node name="GestionEventos" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="InvitadosController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
